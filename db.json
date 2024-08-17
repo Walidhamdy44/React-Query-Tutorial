@@ -1,0 +1,87 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Understanding AI Ethics",
+      "views": 1200,
+      "author": "Jane Doe",
+      "date": "2024-08-15",
+      "category": "Technology"
+    },
+    {
+      "id": "2",
+      "title": "The Future of Renewable Energy",
+      "views": 890,
+      "author": "John Smith",
+      "date": "2024-08-10",
+      "category": "Environment"
+    },
+    {
+      "id": "3",
+      "title": "A Guide to Financial Independence",
+      "views": 4000,
+      "author": "Alex Brown",
+      "date": "2024-07-20",
+      "category": "Finance"
+    },
+    {
+      "id": "4",
+      "title": "Top 10 Travel Destinations in 2024",
+      "views": 3050,
+      "author": "Emily Clark",
+      "date": "2024-08-01",
+      "category": "Travel"
+    },
+    {
+      "id": "5",
+      "title": "Healthy Eating: Tips and Tricks",
+      "views": 2500,
+      "author": "Michael Johnson",
+      "date": "2024-07-25",
+      "category": "Health"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "This article on AI ethics is thought-provoking!",
+      "postId": "1",
+      "user": "Alice",
+      "date": "2024-08-16"
+    },
+    {
+      "id": "2",
+      "text": "Great insights on renewable energy.",
+      "postId": "2",
+      "user": "Bob",
+      "date": "2024-08-12"
+    },
+    {
+      "id": "3",
+      "text": "I found the tips on financial independence very useful.",
+      "postId": "3",
+      "user": "Charlie",
+      "date": "2024-07-21"
+    },
+    {
+      "id": "4",
+      "text": "I’m adding these travel spots to my bucket list.",
+      "postId": "4",
+      "user": "David",
+      "date": "2024-08-02"
+    },
+    {
+      "id": "5",
+      "text": "I’ll definitely try out these healthy eating tips.",
+      "postId": "5",
+      "user": "Eve",
+      "date": "2024-07-26"
+    }
+  ],
+  "profile": {
+    "name": "Typicode",
+    "email": "typicode@example.com",
+    "joinedDate": "2023-01-15",
+    "bio": "A passionate writer and tech enthusiast."
+  }
+}
